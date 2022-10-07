@@ -1,3 +1,5 @@
+// TODO: Replace the addUser() function imported from API with the ADD_USER mutation
+
 import React, { useState } from 'react';
 import { Form, Button, Alert } from 'react-bootstrap';
 

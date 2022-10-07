@@ -1,3 +1,10 @@
+// TODO: Remove the useEffect hook that sets the state for UserData
+
+// TODO: Use the useQuery() hook to execute GET_ME on load and save it to a variable named userData
+
+// TODO: use the useMutation() hook to execute the REMOVE_BOOK mutation in the handleDeleteBook() function instead of the deleteBook() function that's imported from API file
+// ! keep the removeBookId() function in place
+
 import React, { useState, useEffect } from 'react';
 import { Jumbotron, Container, CardColumns, Card, Button } from 'react-bootstrap';
 

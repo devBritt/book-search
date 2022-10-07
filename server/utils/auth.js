@@ -1,3 +1,4 @@
+// TODO: update to work with GraphQL API
 const jwt = require('jsonwebtoken');
 
 // set token secret and expiration date
